@@ -5,5 +5,5 @@ script:
   - make test
 deploy:
   provider: heroku
-  app: se_hello_printer_app
+  app: stormy-peak-26964
   api_key: ${HEROKU_API_KEY}
